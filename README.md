@@ -1,2 +1,2 @@
-'NAME: Daffy Putra Alfajri'
-'NIM : 24343004'
+NAME: Daffy Putra Alfajri\n
+NIM : 24343004
