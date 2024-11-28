@@ -1,7 +1,7 @@
 ## Weekly-Report-Algoritma-24343004-Daffy-Putra-Alfajri
 
 <div align="center">
-  <img src="gitmc/gitmc.gif" width="600" >
+  <img src="gitmc/gitmc.gif" width="540" >
 </div>
 
 ## What is Svelte?
