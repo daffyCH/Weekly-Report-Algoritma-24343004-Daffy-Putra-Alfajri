@@ -1,3 +1,4 @@
+![Gif]("C:\Users\manta\Downloads\GIFGithubMC.gif")
 
 ## What is Svelte?
 
