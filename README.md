@@ -4,6 +4,13 @@
   <img src="gitmc/gitmc.gif" width="540" >
 </div>
 
+> ```
+> Nama : Daffy Putra ALfajri
+> NIM  : 24343004
+> ```
+
+---
+
 ## What is Svelte?
 
 Svelte is a new way to build web applications. It's a compiler that takes your declarative components and converts them into efficient JavaScript that surgically updates the DOM.
