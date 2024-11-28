@@ -5,7 +5,7 @@
 </div>
 
 > ```
-> Nama : Daffy Putra ALfajri
+> Nama : Daffy Putra Alfajri
 > NIM  : 24343004
 > ```
 
