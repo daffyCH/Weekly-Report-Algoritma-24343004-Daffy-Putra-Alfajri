@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="gitmc/gitmc.gif" width="800" height="600">
+  <img src="gitmc/gitmc.gif" width="600" >
 </div>
 
 ## What is Svelte?
