@@ -1,4 +1,6 @@
-![Gif](gitmc/gitmc.gif)
+<div align="center">
+  <img src="gitmc/gitmc.git" alt="Demo Aplikasi" width="800" height="600">
+</div>
 
 ## What is Svelte?
 
