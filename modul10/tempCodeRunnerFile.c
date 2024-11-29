@@ -1,0 +1,1 @@
+data_mahasiswa[jumlah_mahasiswa].nama[strcspn(data_mahasiswa[jumlah_mahasiswa].nama, "\n")] = 0;
