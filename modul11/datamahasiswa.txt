@@ -1,0 +1,10 @@
+Nama: Daffy Putra Alfajri
+NIM: 24343004
+Jurusan: Informatika
+Program Studi: Informatika
+------------------------------
+Nama: odo
+NIM: 2434333
+Jurusan: Teknik
+Program Studi: Informatika
+------------------------------
