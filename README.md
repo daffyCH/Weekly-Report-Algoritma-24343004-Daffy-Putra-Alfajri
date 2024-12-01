@@ -138,6 +138,6 @@ Latihan:
 
 1. Program Biodata Mahasiswa, dengan pengguna menggunakan fungsi-fungsi manipulasi file diatas untuk memasukkan biodata mahasiswa dan menghasilkan file 'datamahasiswa.txt' untuk menyimpan data mahasiswa yang sudah diinputkan, jika pengguna sudah menginputkan data mahasiswa, program akan meminta pengguna untuk memilih, apakah ingin memasukkan data kembali? jika memilih "y", maka akan kembali ke program meminta input data, jika memlih selain "y", maka program akan selesai.
 
-###THANK YOU 
+### THANK YOU 
 
 
