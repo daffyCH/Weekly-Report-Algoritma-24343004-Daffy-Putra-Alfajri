@@ -13,7 +13,7 @@ typedef struct
 int main()
 {
     Mahasiswa dataMahasiswa[100];
-    char tambahData;
+    char tambahData = 'y';
     int jumlahMahasiswa = 0;
 
     while (tambahData == 'y' || tambahData == 'Y')
