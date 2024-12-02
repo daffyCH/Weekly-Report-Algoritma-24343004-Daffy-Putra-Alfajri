@@ -8,7 +8,9 @@
 > Nama : Daffy Putra Alfajri
 > NIM  : 24343004
 >
-> Repository ini berasal dari materi Algoritma Pemrograman dengan Pak Randi Proska Sandra S.Pd, M.Sc
+> Repository ini berasal dari
+> materi Algoritma Pemrograman
+> dengan Pak Randi Proska Sandra S.Pd, M.Sc
 > ```
 
 ---
