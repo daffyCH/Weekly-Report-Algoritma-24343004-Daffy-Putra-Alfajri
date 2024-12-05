@@ -10,10 +10,11 @@ int main()
 
     printf("Bagian A: \n");
     printf("Nilai Layla: %i\n", Layla);
-    printf("Nilai Balmond: %i\n", Balmond);
+    printf("Nilai Balmond: %i\n", Balmond); //halo
 
     int *LaylaB = &Lesley;
     int BalmondB = *LaylaB + 1;
+    printf("~~~~~~~~~~~~~~~~~~~~~~~~~~\n");
 
     printf("Bagian B: \n");
     printf("Nilai Layla: %i\n", *LaylaB);
